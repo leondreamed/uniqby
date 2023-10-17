@@ -11,6 +11,9 @@ devDependencies:
   lionconfig:
     specifier: ^3.1.1
     version: 3.1.1(typescript@5.2.2)
+  typescript:
+    specifier: ^5.2.2
+    version: 5.2.2
 
 packages:
 
